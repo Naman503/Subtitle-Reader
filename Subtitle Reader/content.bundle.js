@@ -1,0 +1,1 @@
+(e=>{const t=(e,t)=>{const n=document.createElement("script");document.documentElement.append(n),n.src=chrome.runtime.getURL(e),Array(t).map((e=>{if("object"==typeof e){const[t,c]=Object.entries(e)[0];n[t]=c}else n[e]=!0}))};t("ga.bundle.js"),t("webpage.bundle.js","defer")})();

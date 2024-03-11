@@ -1,0 +1,1 @@
+(()=>{const a=document.createElement("script");a.async=!0,a.src="https://www.googletagmanager.com/gtag/js?id=UA-197695584-1",document.documentElement.append(a),window.dataLayer=window.dataLayer||[],window.gtag=function(){dataLayer.push(arguments)},gtag("js",new Date),gtag("config","UA-197695584-1")})();
